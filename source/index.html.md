@@ -35,6 +35,15 @@ is not immune to a powerful illness or a violent death. You can not get rid of h
 throughout the game: Even if you manage to kill him, his essence migrates to another 
 container, making him reborn with his basic attributes.
 
+## Vee
+
+The twin sister of <a href="#Khalga">Khalga</a>, Vee raises to become the most 
+beautiful woman in the world. She and her indirect actions lead most of the mod's 
+narrative. As if she were the reincarnation of Helena, no one is immune to her charms, 
+powerfully influencing all the characters in your match.
+
+ 
+
 
 
 # Sakya Society
