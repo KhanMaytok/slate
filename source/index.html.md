@@ -3,12 +3,10 @@ title: API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
-  - ruby
-  - python
-  - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=1516819698'>Download on Steam</a>
+  - <a href='https://github.com/KhanMaytok/ByakuganSharingan'>Source code</a>
   - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
 includes:
