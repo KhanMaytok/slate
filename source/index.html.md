@@ -16,42 +16,29 @@ search: true
 
 Welcome to the Ancestors mod!
 
-**Disclaimer**: Actually it isn't a Naruto mod
+This mod is developed to write an AAR: Ancestors. I decided release it for any 
+person who wants enjoy it. The mod features two new societies, two main inheritable 
+traits, two main characters and a ton of new flavour events.
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+# Main characters
 
-This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+## Khalga
 
+The original twin brother of <a href="#Vee">Vee</a>. He appears in an event at few 
+days after game start.
 
+Khalga grows to become a lover of adventures and women, a nomad who reaches 
+the most remote corners of the world. The reasons why he does it you have to discover them.
 
-### HTTP Request
-
-`GET http://example.com/api/kittens`
-
-### Query Parameters
-
-Parameter | Default | Description
---------- | ------- | -----------
-include_cats | false | If set to true, the result will also include cats.
-available | true | If set to false, the result will include kittens that have already been adopted.
-
-<aside class="success">
-Remember — a happy kitten is an authenticated kitten!
-</aside>
-
-## Get a Specific Kitten
-
-This endpoint retrieves a specific kitten.
-
-<aside class="warning">Inside HTML code blocks like this one, you can't use Markdown, so use <code>&lt;code&gt;</code> blocks to denote code.</aside>
-
-### HTTP Request
+Khalga has "soft immortality". This means that he can not die of old age, but he 
+is not immune to a powerful illness or a violent death. You can not get rid of him 
+throughout the game: Even if you manage to kill him, his essence migrates to another 
+container, making him reborn with his basic attributes.
 
 
-### URL Parameters
 
-Parameter | Description
---------- | -----------
-ID | The ID of the kitten to retrieve
+# Sakya Society
 
-## Delete a Specific Kitten
+
+
+# Pentaghast Society
