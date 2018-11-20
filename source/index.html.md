@@ -6,6 +6,9 @@ toc_footers:
   - <a href='https://github.com/KhanMaytok/ByakuganSharingan'>Source code</a>
   - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
+language_tabs:
+  - yaml: CK2 events and files
+
 includes:
   - errors
 
@@ -26,6 +29,12 @@ traits, two main characters and a ton of new flavour events.
 
 The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few 
 days after game start.
+
+> Born at
+
+```yaml
+event: ACS.7
+```
 
 Khalga grows to become a lover of adventures and women, a nomad who reaches 
 the most remote corners of the world. The reasons why he does it you have to discover them.
