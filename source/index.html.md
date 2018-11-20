@@ -24,7 +24,7 @@ traits, two main characters and a ton of new flavour events.
 
 ## Khalga
 
-The original twin brother of <a href="#Vee">Vee</a>. He appears in an event at few 
+The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few 
 days after game start.
 
 Khalga grows to become a lover of adventures and women, a nomad who reaches 
@@ -37,12 +37,35 @@ container, making him reborn with his basic attributes.
 
 ## Vee
 
-The twin sister of <a href="#Khalga">Khalga</a>, Vee raises to become the most 
+The twin sister of <a href="#khalga">Khalga</a>, Vee raises to become the most 
 beautiful woman in the world. She and her indirect actions lead most of the mod's 
 narrative. As if she were the reincarnation of Helena, no one is immune to her charms, 
 powerfully influencing all the characters in your match.
 
- 
+Keeping Vee in your court allows to you some special buffs:
+
+- +1 monthly prestige. Become the envy of other sovereigns by having the most beautiful woman in the world serving in your court.
+- New casus belli: Having the most beautiful woman in the world in your court also has its risks. When she reaches adulthood, any landed character can declare war to you. If you lose, Vee will leave your court and you will lose prestige.
+
+# Religions
+
+## Ashara Cult
+
+
+
+
+# Traits
+
+The two main traits are directly inspired from Naruto series: Byakugan and Sharingan. 
+
+## Byakugan
+
+## Sharingan
+
+### Events:
+
+- **Mangekyo Sharingan:** If a character have the Sharingan, an attempt to get the Mangekyo can be done through killing a friend. Be careful, the friend can be kill you if he/she is more capable.
+- **Hipnosys:** 
 
 
 
@@ -51,3 +74,8 @@ powerfully influencing all the characters in your match.
 
 
 # Pentaghast Society
+
+## Events:
+
+- **Select new Vee host**: If Vee dies without a desired new container, the pentaghast society leader can saveguard her essence in a special artefact and select a container for Vee transmigration. The max time interval for this is 12 months.
+- 
