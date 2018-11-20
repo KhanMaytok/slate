@@ -2,28 +2,21 @@
 
 ## Khalga
 
-> Born at
+The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few days after game start.
 
 ```yaml
 event: ACS.7
 ```
 
-The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few 
-days after game start.
-
-Khalga is kidnapped by a member of Sakya society 15 days after his birth and transported to Sakya leader court
+Khalga is kidnapped by a member of Sakya society 15 days after his birth and transported to Sakya leader court. Here, He raises until his adulthood.
 
 ```yaml
-event: ["ACS.9", "ACS.18", "ACS.10"]
+event: [ACS.9, ACS.18, ACS.10]
 ```
 
-Khalga grows to become a lover of adventures and women, a nomad who reaches 
-the most remote corners of the world. The reasons why he does it you have to discover them.
+Khalga grows to become a lover of adventures and women, a nomad who reaches the most remote corners of the world. The reasons why he does it you have to discover them.
 
-Khalga has "soft immortality". This means that he can not die of old age, but he 
-is not immune to a powerful illness or a violent death. You can not get rid of him 
-throughout the game: Even if you manage to kill him, his essence migrates to another 
-container, making him reborn with his basic attributes.
+Khalga has "soft immortality". This means that he can not die of old age, but he is not immune to a powerful illness or a violent death. You can not get rid of him throughout the game: Even if you manage to kill him, his essence migrates to another container, making him reborn with his basic attributes.
 
 ```yaml
 event: ACS.16
