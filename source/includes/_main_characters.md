@@ -4,12 +4,19 @@
 
 ```yaml
 event: ACS.7
+time: 30 days after Senua spawn
+mother: Senua
+father: Unknown
+culture: mother
+religion: mother
 ```
 
 The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few days after game start.
 
 ```yaml
 event: [ACS.9, ACS.18, ACS.10]
+kidnapper: Unknown
+destiny: Tilda's court
 ```
 
 Khalga is kidnapped by a member of Sakya society 15 days after his birth and transported to Sakya leader court. Here, He raises until his adulthood.
@@ -24,10 +31,13 @@ Khalga has "soft immortality". This means that he can not die of old age, but he
 
 ## Vee
 
-> Born at
-
 ```yaml
 event: ACS.7
+time: 30 days after Senua spawn
+mother: Senua
+father: Unknown
+culture: mother
+religion: mother
 ```
 
 The twin sister of <a href="#khalga">Khalga</a>, Vee raises to become the most 
@@ -39,70 +49,3 @@ Keeping Vee in your court allows to you some special buffs:
 
 - +1 monthly prestige. Become the envy of other sovereigns by having the most beautiful woman in the world serving in your court.
 - New casus belli: Having the most beautiful woman in the world in your court also has its risks. When she reaches adulthood, any landed character can declare war to you. If you lose, Vee will leave your court and you will lose prestige.
-
-
-# My Title
-
-## My Subtitle
-
-```csharp
-    Code snippet
-```
-
-```java
-    Code snippet
-```
-
-```php
-<?php
-    Code snippet
-?>
-```
-
-```ruby
-#Code snippet
-```
-
-Whatever that goes in the center column. Lorem ipsum
-
-```csharp
-    Code snippet
-```
-
-```java
-    Code snippet
-```
-
-```php
-<?php
-    Code snippet
-?>
-```
-
-```ruby
-#Code snippet
-```
-
-Whatever that goes in the center column. Lorem ipsum
-
-```csharp
-    Code snippet
-```
-
-```java
-    Code snippet
-```
-
-```php
-<?php
-    Code snippet
-?>
-```
-
-```ruby
-#Code snippet
-```
-
-Whatever that goes in the center column. Lorem ipsum
-
-
