@@ -6,9 +6,6 @@ toc_footers:
   - <a href='https://github.com/KhanMaytok/ByakuganSharingan'>Source code</a>
   - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
-language_tabs:
-  - yaml: CK2 events and files
-
 includes:
   - main_characters
   - religions

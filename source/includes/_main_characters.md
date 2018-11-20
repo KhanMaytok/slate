@@ -2,43 +2,21 @@
 
 ## Khalga
 
-```yaml
-event: ACS.7
-time: 30 days after Senua spawn
-mother: Senua
-father: Unknown
-culture: mother
-religion: mother
-```
-
 The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few days after game start.
 
-```yaml
-event: [ACS.9, ACS.18, ACS.10]
-kidnapper: Unknown
-destiny: Tilda's court
-```
+Khalga is kidnapped by a member of Sakya society 15 days after his birth and
+transported to Sakya leader court. Here, He raises until his adulthood.
 
-Khalga is kidnapped by a member of Sakya society 15 days after his birth and transported to Sakya leader court. Here, He raises until his adulthood.
+Khalga grows to become a lover of adventures and women, a nomad who reaches the 
+most remote corners of the world. He leaves the court of Sakya society leader and
+travels by the world selecting a random province once a year.
 
-Khalga grows to become a lover of adventures and women, a nomad who reaches the most remote corners of the world. He leaves the court of Sakya society leader and travels by the world selecting a random province once a year.
-
-```yaml
-event: ACS.16
-```
-
-Khalga has "soft immortality". This means that he can not die of old age, but he is not immune to a powerful illness or a violent death. You can not get rid of him throughout the game: Even if you manage to kill him, his essence migrates to another container, making him reborn with his basic attributes.
+Khalga has "soft immortality". This means that he can not die of old age, but he 
+is not immune to a powerful illness or a violent death. You can not get rid of him 
+throughout the game: Even if you manage to kill him, his essence migrates to another 
+container, making him reborn with his basic attributes.
 
 ## Vee
-
-```yaml
-event: ACS.7
-time: 30 days after Senua spawn
-mother: Senua
-father: Unknown
-culture: mother
-religion: mother
-```
 
 The twin sister of <a href="#khalga">Khalga</a>, Vee raises to become the most 
 beautiful woman in the world. She and her indirect actions lead most of the mod's 
