@@ -25,13 +25,13 @@ traits, two main characters and a ton of new flavour events.
 
 # Main characters
 
-## Khalga
-
 > Born at
 
 ```yaml
 event: ACS.7
 ```
+
+## Khalga
 
 The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few 
 days after game start.
@@ -44,13 +44,14 @@ is not immune to a powerful illness or a violent death. You can not get rid of h
 throughout the game: Even if you manage to kill him, his essence migrates to another 
 container, making him reborn with his basic attributes.
 
-## Vee
 
 > Born at
 
 ```yaml
 event: ACS.7
 ```
+
+## Vee
 
 The twin sister of <a href="#khalga">Khalga</a>, Vee raises to become the most 
 beautiful woman in the world. She and her indirect actions lead most of the mod's 
