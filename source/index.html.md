@@ -27,14 +27,14 @@ traits, two main characters and a ton of new flavour events.
 
 ## Khalga
 
-The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few 
-days after game start.
-
 > Born at
 
 ```yaml
 event: ACS.7
 ```
+
+The original twin brother of <a href="#vee">Vee</a>. He appears in an event at few 
+days after game start.
 
 Khalga grows to become a lover of adventures and women, a nomad who reaches 
 the most remote corners of the world. The reasons why he does it you have to discover them.
@@ -45,6 +45,12 @@ throughout the game: Even if you manage to kill him, his essence migrates to ano
 container, making him reborn with his basic attributes.
 
 ## Vee
+
+> Born at
+
+```yaml
+event: ACS.7
+```
 
 The twin sister of <a href="#khalga">Khalga</a>, Vee raises to become the most 
 beautiful woman in the world. She and her indirect actions lead most of the mod's 
