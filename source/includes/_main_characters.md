@@ -64,3 +64,45 @@ Keeping Vee in your court allows to you some special buffs:
 ```
 
 Whatever that goes in the center column. Lorem ipsum
+
+```csharp
+    Code snippet
+```
+
+```java
+    Code snippet
+```
+
+```php
+<?php
+    Code snippet
+?>
+```
+
+```ruby
+#Code snippet
+```
+
+Whatever that goes in the center column. Lorem ipsum
+
+```csharp
+    Code snippet
+```
+
+```java
+    Code snippet
+```
+
+```php
+<?php
+    Code snippet
+?>
+```
+
+```ruby
+#Code snippet
+```
+
+Whatever that goes in the center column. Lorem ipsum
+
+
