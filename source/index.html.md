@@ -10,6 +10,8 @@ includes:
   - main_characters
   - religions
   - traits
+  - pentaghast
+  - sakya
 
 search: true
 ---
