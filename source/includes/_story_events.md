@@ -13,4 +13,3 @@ that reduces levy, increases building construction time and revolt risk.
 15 days after the comet impact, three story characters spawns at player location. Tilda goes to a mercenary band immediately, but
 Senua and Olaf rests in character court. Senua give birth to Vee and Khalga after a few days, then Olaf goes to 
 a mercenary band. He takes the control of it immediately.
-
