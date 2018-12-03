@@ -27,3 +27,11 @@ Keeping Vee in your court allows to you some special buffs:
 
 - +1 monthly prestige. Become the envy of other sovereigns by having the most beautiful woman in the world serving in your court.
 - New casus belli: Having the most beautiful woman in the world in your court also has its risks. When she reaches adulthood, any landed character can declare war to you. If you lose, Vee will leave your court and you will lose prestige.
+
+### Events
+
+#### Reincarnation
+
+Vee is not able to keep in a body eternally, just like Khalga. Instead, she needs to migrate 
+to another body to mantain her life. Over time, her body will degrade and degrade until
+she must transfer her essence.
